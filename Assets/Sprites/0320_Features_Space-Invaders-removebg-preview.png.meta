@@ -1,0 +1,667 @@
+fileFormatVersion: 2
+guid: 71b74fe619ea68948a89b2155f227bc1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5242750978721732948
+    second: 0320_Features_Space-Invaders-removebg-preview_0
+  - first:
+      213: 3160831122524906224
+    second: 0320_Features_Space-Invaders-removebg-preview_1
+  - first:
+      213: -667394819359503623
+    second: 0320_Features_Space-Invaders-removebg-preview_2
+  - first:
+      213: -1936129011379698975
+    second: 0320_Features_Space-Invaders-removebg-preview_3
+  - first:
+      213: -7119793221575290473
+    second: 0320_Features_Space-Invaders-removebg-preview_4
+  - first:
+      213: -4863411723327726367
+    second: 0320_Features_Space-Invaders-removebg-preview_5
+  - first:
+      213: -2803235189204849831
+    second: 0320_Features_Space-Invaders-removebg-preview_6
+  - first:
+      213: 9125720124680529969
+    second: 0320_Features_Space-Invaders-removebg-preview_7
+  - first:
+      213: 8929210661687640115
+    second: 0320_Features_Space-Invaders-removebg-preview_8
+  - first:
+      213: -8883978132398765360
+    second: 0320_Features_Space-Invaders-removebg-preview_9
+  - first:
+      213: 417510721619698630
+    second: 0320_Features_Space-Invaders-removebg-preview_10
+  - first:
+      213: 4547793024855238876
+    second: 0320_Features_Space-Invaders-removebg-preview_11
+  - first:
+      213: -9161159279995418674
+    second: 0320_Features_Space-Invaders-removebg-preview_12
+  - first:
+      213: 8485873551740926477
+    second: 0320_Features_Space-Invaders-removebg-preview_13
+  - first:
+      213: 60591649073903550
+    second: 0320_Features_Space-Invaders-removebg-preview_14
+  - first:
+      213: 6271420558326366378
+    second: 0320_Features_Space-Invaders-removebg-preview_15
+  - first:
+      213: 7817437308827453486
+    second: 0320_Features_Space-Invaders-removebg-preview_16
+  - first:
+      213: -3454506015778207196
+    second: 0320_Features_Space-Invaders-removebg-preview_17
+  - first:
+      213: 3741446724713453839
+    second: 0320_Features_Space-Invaders-removebg-preview_18
+  - first:
+      213: -3317222501468281716
+    second: 0320_Features_Space-Invaders-removebg-preview_19
+  - first:
+      213: 6770370574174236795
+    second: 0320_Features_Space-Invaders-removebg-preview_20
+  - first:
+      213: 1412985878008009569
+    second: 0320_Features_Space-Invaders-removebg-preview_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 0320_Features_Space-Invaders-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 319
+        width: 77
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6a57b13c10e37b0800000000000000
+      internalID: -5242750978721732948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0320_Features_Space-Invaders-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 319
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2a81db8278ddb20800000000000000
+      internalID: 3160831122524906224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0320_Features_Space-Invaders-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 319
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa0423a2ffecb6f0800000000000000
+      internalID: -667394819359503623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0320_Features_Space-Invaders-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 319
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e282651cec7125e0800000000000000
+      internalID: -1936129011379698975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0320_Features_Space-Invaders-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 319
+        width: 77
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79155c989c9613d90800000000000000
+      internalID: -7119793221575290473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0320_Features_Space-Invaders-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 323
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec949a1ec0b18cb0800000000000000
+      internalID: -4863411723327726367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0320_Features_Space-Invaders-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 225
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95be1959278e819d0800000000000000
+      internalID: -2803235189204849831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0320_Features_Space-Invaders-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 225
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138673f6a1215ae70800000000000000
+      internalID: 9125720124680529969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0320_Features_Space-Invaders-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 225
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330c58ea9cdeaeb70800000000000000
+      internalID: 8929210661687640115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0320_Features_Space-Invaders-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 225
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da880a35f4c5b480800000000000000
+      internalID: -8883978132398765360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0320_Features_Space-Invaders-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 224
+        width: 77
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c32f0c0acb4bc500800000000000000
+      internalID: 417510721619698630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0320_Features_Space-Invaders-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 125
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8ee7e29a10d1f30800000000000000
+      internalID: 4547793024855238876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0320_Features_Space-Invaders-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 125
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec789193c260dd080800000000000000
+      internalID: -9161159279995418674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0320_Features_Space-Invaders-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 125
+        width: 83
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a76640901e3c570800000000000000
+      internalID: 8485873551740926477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0320_Features_Space-Invaders-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 125
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7b767a8c347d000800000000000000
+      internalID: 60591649073903550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0320_Features_Space-Invaders-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 125
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0002835cf880750800000000000000
+      internalID: 6271420558326366378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0320_Features_Space-Invaders-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 125
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28cb8650dd1d7c60800000000000000
+      internalID: 7817437308827453486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0320_Features_Space-Invaders-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 29
+        width: 85
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a0717d4112f00d0800000000000000
+      internalID: -3454506015778207196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0320_Features_Space-Invaders-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 29
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09189c19f94ce330800000000000000
+      internalID: 3741446724713453839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0320_Features_Space-Invaders-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 29
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84ec07d5bbd6f1d0800000000000000
+      internalID: -3317222501468281716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0320_Features_Space-Invaders-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 29
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70b96f8a2035fd50800000000000000
+      internalID: 6770370574174236795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0320_Features_Space-Invaders-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 31
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1639f437b2feb9310800000000000000
+      internalID: 1412985878008009569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
