@@ -98,9 +98,9 @@ public class Invaders:MonoBehaviour
     private void InvaderKilled()
     {
         this.amountKilled++;
-        if (this.amountKilled >= this.totalInvaders)
-        {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-        }
+       // if (this.amountKilled >= this.totalInvaders)
+        //{
+          //  SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        //}
     }
 }

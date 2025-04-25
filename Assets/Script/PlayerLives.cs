@@ -12,6 +12,7 @@ public Image[] livesUI;
         {
             Destroy(other.gameObject);
             lives-=1;
+            GameManager.Instance.PlayerHit();
             for (int i = 0; i < livesUI.Length; i++)
             {
                 if (i < lives)

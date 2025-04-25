@@ -38,6 +38,7 @@ private void OnTriggerEnter2D(Collider2D other)
     if (other.gameObject.layer == LayerMask.NameToLayer("Laser"))
     {
         this.Killed.Invoke();
+        GameManager.Instance.EnemyKilled();
         this.gameObject.SetActive(false);
     }
 }
